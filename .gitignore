@@ -1,0 +1,10 @@
+node_modules
+*.js
+__pycache__
+*.pyc
+
+# data
+attrs
+data
+normalization
+stars
